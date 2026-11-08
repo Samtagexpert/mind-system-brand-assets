@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 104 104" xmlns="http://www.w3.org/2000/svg">
+  <title>Mind System — symbole (M modulaire, mono noir)</title>
+  <rect x="8"  y="8"  width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="8"  y="26" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="8"  y="44" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="8"  y="62" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="8"  y="80" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="26" y="26" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="44" y="44" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="62" y="26" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="80" y="8"  width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="80" y="26" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="80" y="44" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="80" y="62" width="16" height="16" rx="3" fill="#1A1614"/>
+  <rect x="80" y="80" width="16" height="16" rx="3" fill="#1A1614"/>
+</svg>
